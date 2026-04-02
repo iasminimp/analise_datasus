@@ -7,7 +7,8 @@ O projeto inclui etapas de **exploração dos dados, análise estatística, dese
 
 ---
 
-⚠️ Arquivos Adicionais
+
+## ⚠️ Arquivos Adicionais
 
 Devido ao tamanho de alguns arquivos do projeto, o GitHub não permitiu o envio de todos os materiais para este repositório.
 
@@ -62,13 +63,10 @@ Esses relatórios ajudam a compreender rapidamente:
 
 ### `[dados] dataset`
 
-Contém os **datasets utilizados no projeto**.
+Contém o **dataset utilizado no projeto**.
 
-Podem incluir:
-
-- dados brutos
-- dados tratados
-- versões intermediárias utilizadas nas análises
+- dados brutos (do data SUS)
+- dicionário de dados do dataset
 
 ---
 
@@ -95,12 +93,12 @@ Implementação e experimentos com modelos de aprendizado de máquina, como:
 - **Random Forest**
 - **Árvores de Decisão (CART)**
 
-Nesta pasta podem estar:
+Nesta pasta contém:
 
 - notebooks de treinamento
 - scripts de modelagem
 - avaliação de métricas
-- comparação entre modelos
+- comparação entre os dois modelos
 
 ---
 
