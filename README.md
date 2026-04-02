@@ -106,7 +106,7 @@ Arquivos referentes ao **TCC II**, incluindo:
 
 ---
 
-# 🛠 Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 Este projeto utiliza principalmente:
 
