@@ -4,6 +4,28 @@
 Este repositório contém os materiais utilizados no desenvolvimento de um projeto de **análise exploratória de dados, modelagem com algoritmos de machine learning e documentação acadêmica (TCC)**.
 
 O projeto inclui etapas de **exploração dos dados, análise estatística, desenvolvimento de modelos preditivos e produção de material escrito**.
+
+---
+
+⚠️ Arquivos Adicionais
+
+Devido ao tamanho de alguns arquivos do projeto, o GitHub não permitiu o envio de todos os materiais para este repositório.
+
+Por esse motivo, parte do conteúdo (datasets completos, relatórios e outros arquivos auxiliares) está disponível no Google Drive através do link abaixo:
+
+📁 Acesse os arquivos completos:
+
+🔗 https://drive.google.com/drive/folders/1s-uNEz9on2V7vWqzZFJSm9nazP9znX17?usp=sharing 
+
+No repositório do GitHub estão disponíveis principalmente:
+
+a estrutura do projeto
+scripts e notebooks principais
+documentação
+modelos utilizados
+
+Enquanto no Google Drive estão armazenados os arquivos maiores que excedem o limite de upload do GitHub.
+
 ---
 
 # Estrutura do Repositório
